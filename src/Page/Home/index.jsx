@@ -4,7 +4,7 @@ import { Container } from "../../Styles/Container";
 import { BiArrowBack } from "react-icons/bi";
 import { Midias } from "../../Components/MidiasSociais";
 import perfil from "../../Assets/perfil.jpeg";
-import { useContext } from "react/cjs/react.development";
+import { useContext } from "react";
 import { HomeContext } from "../../Context/HomeContext";
 import { Buttons } from "../../Components/Buttons";
 

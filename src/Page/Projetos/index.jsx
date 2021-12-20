@@ -5,6 +5,7 @@ import hamburgueria from "../../Assets/hamburgueria.png";
 import doit from "../../Assets/doit.png";
 import kenziehub from "../../Assets/kenziehub.png";
 import kenzieshop from "../../Assets/kenzieshop.png";
+import habits from "../../Assets/habits.png";
 import { useContext } from "react";
 import { HomeContext } from "../../Context/HomeContext";
 
@@ -54,6 +55,24 @@ export const Projetos = () => {
       <MainProjetos>
         <Container>
           <div className="box-main-projects">
+            <div className="box-main_single-projects">
+              <figure>
+                <img src={habits} alt="Imagem do Projeto" />
+              </figure>
+
+              <div className="buttons">
+                <a target="_blank" href="https://habits-1.vercel.app/">
+                  Visite
+                </a>
+                <a
+                  target="_blank"
+                  href="https://github.com/serafimmatheus/habits-1"
+                >
+                  GitHub do Projeto
+                </a>
+              </div>
+            </div>
+
             <div className="box-main_single-projects">
               <figure>
                 <img src={kenziehub} alt="Imagem do Projeto" />

@@ -5,6 +5,7 @@ import hamburgueria from "../../Assets/hamburgueria.png";
 import doit from "../../Assets/doit.png";
 import kenziehub from "../../Assets/kenziehub.png";
 import kenzieshop from "../../Assets/kenzieshop.png";
+import habits from "../../Assets/habits.png";
 import { useContext } from "react";
 import { HomeContext } from "../../Context/HomeContext";
 import doitts from "../../Assets/do-it-ts.png";

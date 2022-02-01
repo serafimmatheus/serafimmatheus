@@ -7,6 +7,7 @@ import kenziehub from "../../Assets/kenziehub.png";
 import kenzieshop from "../../Assets/kenzieshop.png";
 import { useContext } from "react";
 import { HomeContext } from "../../Context/HomeContext";
+import doitts from "../../Assets/do-it-ts.png";
 
 export const Projetos = () => {
   const {
@@ -54,6 +55,24 @@ export const Projetos = () => {
       <MainProjetos>
         <Container>
           <div className="box-main-projects">
+            <div className="box-main_single-projects">
+              <figure>
+                <img src={doitts} alt="Imagem do Projeto" />
+              </figure>
+
+              <div className="buttons">
+                <a target="_blank" href="https://do-it-ts.vercel.app/">
+                  Visite
+                </a>
+                <a
+                  target="_blank"
+                  href="https://github.com/serafimmatheus/do-it-ts"
+                >
+                  GitHub do Projeto
+                </a>
+              </div>
+            </div>
+
             <div className="box-main_single-projects">
               <figure>
                 <img src={kenziehub} alt="Imagem do Projeto" />

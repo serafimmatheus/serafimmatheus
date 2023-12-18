@@ -1,7 +1,6 @@
 ## Olá, me chamo Matheus Serafim! 
 ### Bem vindo ao meu perfil GitHub 👋
 
-<! --
 
 - 🔭 Atualmente estou trabalhando na empresa MENTORES DIGITAL LTDA...
 - 🌱 Atualmente estou aprendendo Flutter/Dart...
@@ -10,6 +9,8 @@
 ### Meu Portfólio:
 
 https://serafimmatheus.vercel.app/
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 ### Ferramentas e Tecnologias
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg"  width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
@@ -37,7 +38,7 @@ https://serafimmatheus.vercel.app/
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=serafimmatheus&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
--->
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
 
 
 
